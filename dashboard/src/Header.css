@@ -1,0 +1,7 @@
+.Header{padding: 60px; text-align: center; background: rgb(72, 72, 236) ; color: white; font-size: 30px;display: flex;
+    align-items: center; 
+    gap: 10px; 
+    padding: 10px;
+}
+
+.HeaderText{margin: 0;}
